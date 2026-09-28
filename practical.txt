@@ -1,1 +1,2 @@
 This is my Git practical file.
+This line was added to demonstrate file changes.
